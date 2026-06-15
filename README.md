@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e92eff05-29c6-48d7-8562-809ef13976e9" width="100%">
+</p>
+
+# Hola, soy David Zúñiga Huerta 👋
+...
 # Hola, soy David Zúñiga Huerta 👋
 
 **Desarrollador y Gestor de Software Multiplataforma**
