@@ -3,8 +3,6 @@
 </p>
 
 # Hola, soy David Zúñiga Huerta 👋
-...
-# Hola, soy David Zúñiga Huerta 👋
 
 **Desarrollador y Gestor de Software Multiplataforma**
 
